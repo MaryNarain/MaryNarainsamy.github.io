@@ -93,29 +93,5 @@
 
 ## Contact Me
 Please feel free to get in touch for a consultation. If you have questions regarding PowerApps/Power Automate, Adaptive cards, etc.
-
-**Name**
-<input type="text" name="user_name" required>
-
-**Email**
-<input type="email" name="user_email" required>
-
-**Message**
-<textarea name="message" rows="4" required></textarea>
-
-**Contact Number**
-<input type="tel" name="contact_number" pattern="[0-9]{10}" required>
-
-**Company?**
-<input type="text" name="company_name">
-
-**Select Option you would like to partner with us for:**
-<select name="solution_option">
-  <option value="PowerApps/Power Automate">PowerApps/Power Automate</option>
-  <option value="Custom Development">Custom Development</option>
-  <option value="Consultation">Consultation</option>
-  <option value="Other">Other</option>
-</select>
-
-<button type="submit" style="height: 50px; margin-top: 10px;">Send</button>
-
+Please message @
+mary.narainsamy@gmail.com  
