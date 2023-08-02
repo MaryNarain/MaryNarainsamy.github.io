@@ -61,7 +61,7 @@
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
   <div>
     <h3>Power Automate Project</h3>
-    <img src="./Project1Image.png" alt="Project 1">
+    <img src="./Project2Image.png" alt="Project 1">
     <ul>
       <li>Built Helpdesk using Power Automate, Adaptive Cards, and Teams</li>
       <li>Multiple workflows for automation</li>
@@ -69,7 +69,7 @@
   </div>
   <div>
     <h3>Custom Projects</h3>
-    <img src="./project2Image.png" alt="Project 2" className="project-image" style="width: 159px; height: 159px;">
+    <img src="./project3Image.png" alt="Project 2 ">
     <ul>
       <li>Built a console App that runs on a daily basis and checks all user access, then stores the file in blob storage, to be used for fire drill when necessary.</li>
       <li>The app interface was created in PowerApps, backend was coded as a console app using C# and run daily.</li>
@@ -78,7 +78,7 @@
   </div>
   <div>
     <h3>Project 3</h3>
-    <img src="./project3Image.png" alt="Project 3" className="project-image" style="width: 159px; height: 159px;">
+    <img src="./project4Image.png" alt="Project 3">
     <ul>
       <li>My YouTube channel Learn with Lala is just at the beginning of its YouTube journey.</li>
       <li>Currently working on my YouTube channel providing tutorials on the Power Platform.</li>
