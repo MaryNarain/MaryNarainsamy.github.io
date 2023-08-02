@@ -1,19 +1,14 @@
-  # My Portfolio
+ # My Portfolio
 
 ## Introduction
-<div style="background-image: url('./Assets/background_image.jpg'); background-size: cover; padding: 100px 0; text-align: center; color: white;">
-  <h2>Hi, I'm Mary, a developer. Welcome to my portfolio!</h2>
-  <img src=".//Assets/profile_picture_adjusted.png" alt="Profile Picture">
-  <blockquote>
-    “My powers are ordinary. Only my application brings me success.” ~ Isaac Newton
-  </blockquote>
-  <a href="https://www.instagram.com/learnwlala/">
-    <img src="./Assets/instagram.png" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/mary-narainsamy-294bb0102/">
-    <img src="./Assets/linkedin.png" alt="LinkedIn">
-  </a>
-</div>
+![Profile Picture](./Assets/profile_picture_adjusted.png)
+
+> “My powers are ordinary. Only my application brings me success.” ~ Isaac Newton
+
+[![Instagram](./Assets/instagram.png)](https://www.instagram.com/learnwlala/)
+[![LinkedIn](./Assets/linkedin.png)](https://www.linkedin.com/in/mary-narainsamy-294bb0102/)
+
+Hi, I'm Mary, a developer. Welcome to my portfolio!
 
 ---
 
@@ -62,7 +57,6 @@
   <div>
     <h3>Power Automate Project</h3>
     <img src="./Assets/Project2Image.png" alt="Project 2">
-    <p></p>
     <ul>
       <li>Built Helpdesk using Power Automate, Adaptive Cards, and Teams</li>
       <li>Multiple workflows for automation</li>
@@ -78,7 +72,7 @@
     </ul>
   </div>
   <div>
-    <h3>Project 4</h3>
+    <h3>Project 3</h3>
     <img src={project4Image} alt="Project 4" className="project-image" />
     <ul>
       <li>My youtube channel Learn with Lala is just at the beginning of its youtube journey.</li>
@@ -94,4 +88,4 @@
 ## Contact Me
 Please feel free to get in touch for a consultation. If you have questions regarding PowerApps/Power Automate, Adaptive cards, etc.
 Please message @
-mary.narainsamy@gmail.com  
+[mary.narainsamy@gmail.com](mailto:mary.narainsamy@gmail.com) 
