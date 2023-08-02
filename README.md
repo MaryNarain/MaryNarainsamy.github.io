@@ -60,22 +60,33 @@
 ## Projects
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
   <div>
-    <h3>PowerApps Project</h3>
-    <img src="./src/Components/Assets/Project1Image.png" alt="Project 1">
-    <p>Created apps like:</p>
-    <ul>
-      <li>Complete HR Solution</li>
-      <li>Skills Development App</li>
-      <!-- Add more items as needed -->
-    </ul>
-  </div>
-  <div>
     <h3>Power Automate Project</h3>
     <img src="./src/Components/Assets/Project2Image.png" alt="Project 2">
     <p>Built Helpdesk using Power Automate, Adaptive Cards, and Teams</p>
-    <!-- Add more details as needed -->
+    <ul>
+      <li>Built Helpdesk using Power Automate, Adaptive Cards, and Teams</li>
+      <li>Multiple workflows for automation</li>
+    </ul>
   </div>
-  <!-- Add more project sections as needed -->
+  <div>
+    <h3>Custom Projects</h3>
+    <img src={project3Image} alt="Project 3" className="project-image" />
+    <ul>
+      <li>Built a console App that runs on a daily basis and checks the all user access then stores file in blob storage, to be used for fire drill when necessary.</li>
+      <li>The app interface was created in PowerApps, backend was coded as a console app using C# and run daily.</li>
+      <li>Other projects include, my portfolio is developed using React.js</li>
+    </ul>
+  </div>
+  <div>
+    <h3>Project 4</h3>
+    <img src={project4Image} alt="Project 4" className="project-image" />
+    <ul>
+      <li>My youtube channel Learn with Lala is just at the beginning of its youtube journey.</li>
+      <li>Currently working on my Youtube channel providing tutorials on the Power Platform.</li>
+      <li>Tutorials on Adaptive cards and other uses for it.</li>
+      <li>Currently under construction, pending more video tutorials.</li>
+    </ul>
+  </div>
 </div>
 
 ---
