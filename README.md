@@ -1,5 +1,4 @@
 # My Portfolio
-
 ## Introduction
 <div style="background-image: url('./background_image.jpg'); background-size: cover; padding: 100px 0; text-align: center; color: white;">
   <h2>Hi, I'm Mary, a developer. Welcome to my portfolio!</h2>
@@ -14,9 +13,7 @@
     <img src="./linkedin.png" alt="LinkedIn" style="width: 30px; height: 30px;">
   </a>
 </div>
-
 ---
-
 ## Experience
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
   <div>
@@ -69,7 +66,7 @@
   </div>
   <div>
     <h3>Custom Projects</h3>
-    <img src="./project3Image.png" alt="Project 2 ">
+    <img src="./Project3Image.png" alt="Project 2">
     <ul>
       <li>Built a console App that runs on a daily basis and checks all user access, then stores the file in blob storage, to be used for fire drill when necessary.</li>
       <li>The app interface was created in PowerApps, backend was coded as a console app using C# and run daily.</li>
@@ -78,7 +75,7 @@
   </div>
   <div>
     <h3>Project 3</h3>
-    <img src="./project4Image.png" alt="Project 3">
+    <img src="./Project4Image.png" alt="Project 1">
     <ul>
       <li>My YouTube channel Learn with Lala is just at the beginning of its YouTube journey.</li>
       <li>Currently working on my YouTube channel providing tutorials on the Power Platform.</li>
