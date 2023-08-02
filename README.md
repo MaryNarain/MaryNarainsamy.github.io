@@ -1,97 +1,110 @@
-# My Portfolio
+  # My Portfolio
 
-## Sidebar
-
-Hi, I'm Mary, a developer. Welcome to my portfolio!
-
-![Profile Picture](./Assets/profile_picture_adjusted.png)
-
-> “My powers are ordinary. Only my application brings me success.” ~ Isaac Newton
-
-[![Instagram](./Assets/instagram.png)](https://www.instagram.com/learnwlala/)
-[![LinkedIn](./Assets/linkedin.png)](https://www.linkedin.com/in/mary-narainsamy-294bb0102/)
-
-I'm a passionate self-taught developer skilled in C#, JavaScript, Power Platform, Dynamics CRM, and React.js. I specialize in developing robust software solutions and creating efficient applications. I'm committed to delivering high-quality code and ensuring client satisfaction. Problem-solving using code is my forte.
-
-[Get my CV](https://raw.githubusercontent.com/MaryNarain/My_Portfolio/main/path/to/cv.pdf)
+## Introduction
+<div style="background-image: url('./Assets/background_image.jpg'); background-size: cover; padding: 100px 0; text-align: center; color: white;">
+  <h2>Hi, I'm Mary, a developer. Welcome to my portfolio!</h2>
+  <img src="./Assets/profile_picture_adjusted.png" alt="Profile Picture">
+  <blockquote>
+    “My powers are ordinary. Only my application brings me success.” ~ Isaac Newton
+  </blockquote>
+  <a href="https://www.instagram.com/learnwlala/">
+    <img src="./Assets/instagram.png" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/mary-narainsamy-294bb0102/">
+    <img src="./Assets/linkedin.png" alt="LinkedIn">
+  </a>
+</div>
 
 ---
 
 ## Experience
-
-### Custom Development
-- Maintaining system code
-- Web development
-- Documentation
-- Building custom applications
-- Languages: React.js, JavaScript, C#
-
-### Power Platform Developer
-- Building Business Apps
-- Automating Processes with Power Automate
-- Integrating external systems with Adaptive Cards (Binder/AIDL)
-- Languages: Power FX, Javascript, C#
-
-### CRM Developer
-- Dynamics 365 Developer
-- Maintaining Dynamics CRM
-- Languages: JavaScript, C#
-
-### Tutorials & Development
-- YouTube Tutorials
-- Freelance App Dev
+<div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
+  <div>
+    <h3>Custom Development</h3>
+    <ul>
+      <li>Maintaining system code</li>
+      <li>Web development</li>
+      <li>Documentation</li>
+      <li>Building custom applications</li>
+      <li>Languages: React.js, JavaScript, C#</li>
+    </ul>
+  </div>
+  <div>
+    <h3>Power Platform Developer</h3>
+    <ul>
+      <li>Building Business Apps</li>
+      <li>Automating Processes with Power Automate</li>
+      <li>Integrating external systems with Adaptive Cards (Binder/AIDL)</li>
+      <li>Languages: Power FX, Javascript, C#</li>
+    </ul>
+  </div>
+  <div>
+    <h3>CRM Developer</h3>
+    <ul>
+      <li>Dynamics 365 Developer</li>
+      <li>Maintaining Dynamics CRM</li>
+      <li>Languages: JavaScript, C#</li>
+    </ul>
+  </div>
+  <div>
+    <h3>Tutorials & Development</h3>
+    <ul>
+      <li>YouTube Tutorials</li>
+      <li>Freelance App Dev</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
 ## Projects
-
-### PowerApps Project
-![Project 1](./src/Components/Assets/Project1Image.png)
-- Created apps like:
-  - Complete HR Solution
-  - Skills Development App
-  - Change Control App
-  - Sales and CRM using Power Apps as a foundation
-  - Credit Card Recon App
-
-### Power Automate Project
-![Project 2](./src/Components/Assets/Project2Image.png)
-- Built Helpdesk using Power Automate, Adaptive Cards, and Teams
-- Multiple workflows for automation
-
-### Custom Projects
-![Project 3](./src/Components/Assets/Project3Image.png)
-- Built a console App for daily user access checks, stored in blob storage for fire drills.
-- Interface in PowerApps, backend coded in C# as a console app.
-- Other projects include my portfolio developed using React.js.
-
-### Project 4
-![Project 4](./src/Components/Assets/Project4Image.png)
-- My YouTube channel Learn with Lala is just beginning its journey.
-- Providing tutorials on the Power Platform.
-- Tutorials on Adaptive cards and other uses.
-- Under construction, pending more video tutorials.
+<div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
+  <div>
+    <h3>PowerApps Project</h3>
+    <img src="./src/Components/Assets/Project1Image.png" alt="Project 1">
+    <p>Created apps like:</p>
+    <ul>
+      <li>Complete HR Solution</li>
+      <li>Skills Development App</li>
+      <!-- Add more items as needed -->
+    </ul>
+  </div>
+  <div>
+    <h3>Power Automate Project</h3>
+    <img src="./src/Components/Assets/Project2Image.png" alt="Project 2">
+    <p>Built Helpdesk using Power Automate, Adaptive Cards, and Teams</p>
+    <!-- Add more details as needed -->
+  </div>
+  <!-- Add more project sections as needed -->
+</div>
 
 ---
 
 ## Contact Me
+Please feel free to get in touch for a consultation. If you have questions regarding PowerApps/Power Automate, Adaptive cards, etc.
 
-Feel free to get in touch for consultation or questions regarding PowerApps, Power Automate, Adaptive Cards, etc.
+**Name**
+<input type="text" name="user_name" required>
 
-**Name:** [Your Name]
+**Email**
+<input type="email" name="user_email" required>
 
-**Email:** [Your Email]
+**Message**
+<textarea name="message" rows="4" required></textarea>
 
-**Message:** [Your Message]
+**Contact Number**
+<input type="tel" name="contact_number" pattern="[0-9]{10}" required>
 
-**Contact Number:** [Your Phone Number]
-
-**Company:** [Your Company Name]
+**Company?**
+<input type="text" name="company_name">
 
 **Select Option you would like to partner with us for:**
-- PowerApps/Power Automate
-- Custom Development
-- Consultation
-- Other
+<select name="solution_option">
+  <option value="PowerApps/Power Automate">PowerApps/Power Automate</option>
+  <option value="Custom Development">Custom Development</option>
+  <option value="Consultation">Consultation</option>
+  <option value="Other">Other</option>
+</select>
 
-[Send](mailto:your@email.com)
+<button type="submit" style="height: 50px; margin-top: 10px;">Send</button>
+
