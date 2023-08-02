@@ -77,7 +77,7 @@
     </ul>
   </div>
   <div>
-    <h3>Project 4</h3>
+    <h3>Project 3</h3>
     <img src="./project4Image.png" alt="Project 4" className="project-image" style="width: 159px; height: 159px;">
     <ul>
       <li>My YouTube channel Learn with Lala is just at the beginning of its YouTube journey.</li>
