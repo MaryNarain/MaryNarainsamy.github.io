@@ -1,12 +1,12 @@
  # My Portfolio
 
 ## Introduction
-![Profile Picture](./Assets/profile_picture_adjusted.png)
+![Profile Picture](./profile_picture_adjusted.png)
 
 > “My powers are ordinary. Only my application brings me success.” ~ Isaac Newton
 
-[![Instagram](./Assets/instagram.png)](https://www.instagram.com/learnwlala/)
-[![LinkedIn](./Assets/linkedin.png)](https://www.linkedin.com/in/mary-narainsamy-294bb0102/)
+[![Instagram](./instagram.png)](https://www.instagram.com/learnwlala/)
+[![LinkedIn](./linkedin.png)](https://www.linkedin.com/in/mary-narainsamy-294bb0102/)
 
 Hi, I'm Mary, a developer. Welcome to my portfolio!
 
@@ -56,7 +56,7 @@ Hi, I'm Mary, a developer. Welcome to my portfolio!
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
   <div>
     <h3>Power Automate Project</h3>
-    <img src="./Assets/Project2Image.png" alt="Project 2">
+    <img src="./Project2Image.png" alt="Project 2">
     <ul>
       <li>Built Helpdesk using Power Automate, Adaptive Cards, and Teams</li>
       <li>Multiple workflows for automation</li>
@@ -64,7 +64,7 @@ Hi, I'm Mary, a developer. Welcome to my portfolio!
   </div>
   <div>
     <h3>Custom Projects</h3>
-    <img src={project3Image} alt="Project 3" className="project-image" />
+    [![Project3]](./project3Image.png)
     <ul>
       <li>Built a console App that runs on a daily basis and checks the all user access then stores file in blob storage, to be used for fire drill when necessary.</li>
       <li>The app interface was created in PowerApps, backend was coded as a console app using C# and run daily.</li>
