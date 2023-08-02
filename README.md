@@ -3,7 +3,7 @@
 ## Introduction
 <div style="background-image: url('./Assets/background_image.jpg'); background-size: cover; padding: 100px 0; text-align: center; color: white;">
   <h2>Hi, I'm Mary, a developer. Welcome to my portfolio!</h2>
-  <img src="./Assets/profile_picture_adjusted.png" alt="Profile Picture">
+  <img src=".//Assets/profile_picture_adjusted.png" alt="Profile Picture">
   <blockquote>
     “My powers are ordinary. Only my application brings me success.” ~ Isaac Newton
   </blockquote>
