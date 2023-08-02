@@ -89,4 +89,3 @@
 Please feel free to get in touch for a consultation. If you have questions regarding PowerApps/Power Automate, Adaptive cards, etc.
 Please message @
 [mary.narainsamy@gmail.com](mailto:mary.narainsamy@gmail.com) 
-
