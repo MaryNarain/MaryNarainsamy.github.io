@@ -1,14 +1,19 @@
- # My Portfolio
+# My Portfolio
 
 ## Introduction
-![Profile Picture](./profile_picture_adjusted.png)
-
-> “My powers are ordinary. Only my application brings me success.” ~ Isaac Newton
-
-[![Instagram](./instagram.png)](https://www.instagram.com/learnwlala/)
-[![LinkedIn](./linkedin.png)](https://www.linkedin.com/in/mary-narainsamy-294bb0102/)
-
-Hi, I'm Mary, a developer. Welcome to my portfolio!
+<div style="background-image: url('./background_image.jpg'); background-size: cover; padding: 100px 0; text-align: center; color: white;">
+  <h2>Hi, I'm Mary, a developer. Welcome to my portfolio!</h2>
+  <img src="./profile_picture_adjusted.png" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%;">
+  <blockquote>
+    “My powers are ordinary. Only my application brings me success.” ~ Isaac Newton
+  </blockquote>
+  <a href="https://www.instagram.com/learnwlala/">
+    <img src="./instagram.png" alt="Instagram" style="width: 30px; height: 30px;">
+  </a>
+  <a href="https://www.linkedin.com/in/mary-narainsamy-294bb0102/">
+    <img src="./linkedin.png" alt="LinkedIn" style="width: 30px; height: 30px;">
+  </a>
+</div>
 
 ---
 
@@ -64,19 +69,19 @@ Hi, I'm Mary, a developer. Welcome to my portfolio!
   </div>
   <div>
     <h3>Custom Projects</h3>
-    [![Project3]](./project3Image.png)
+    <img src="./project3Image.png" alt="Project 3" className="project-image" style="width: 159px; height: 159px;">
     <ul>
-      <li>Built a console App that runs on a daily basis and checks the all user access then stores file in blob storage, to be used for fire drill when necessary.</li>
+      <li>Built a console App that runs on a daily basis and checks all user access, then stores the file in blob storage, to be used for fire drill when necessary.</li>
       <li>The app interface was created in PowerApps, backend was coded as a console app using C# and run daily.</li>
-      <li>Other projects include, my portfolio is developed using React.js</li>
+      <li>Other projects include, my portfolio is developed using React.js.</li>
     </ul>
   </div>
   <div>
-    <h3>Project 3</h3>
-    <img src={project4Image} alt="Project 4" className="project-image" />
+    <h3>Project 4</h3>
+    <img src="./project4Image.png" alt="Project 4" className="project-image" style="width: 159px; height: 159px;">
     <ul>
-      <li>My youtube channel Learn with Lala is just at the beginning of its youtube journey.</li>
-      <li>Currently working on my Youtube channel providing tutorials on the Power Platform.</li>
+      <li>My YouTube channel Learn with Lala is just at the beginning of its YouTube journey.</li>
+      <li>Currently working on my YouTube channel providing tutorials on the Power Platform.</li>
       <li>Tutorials on Adaptive cards and other uses for it.</li>
       <li>Currently under construction, pending more video tutorials.</li>
     </ul>
@@ -88,4 +93,5 @@ Hi, I'm Mary, a developer. Welcome to my portfolio!
 ## Contact Me
 Please feel free to get in touch for a consultation. If you have questions regarding PowerApps/Power Automate, Adaptive cards, etc.
 Please message @
-[mary.narainsamy@gmail.com](mailto:mary.narainsamy@gmail.com) 
+[mary.narainsamy@gmail.com](mailto:mary.narainsamy@gmail.com)
+
