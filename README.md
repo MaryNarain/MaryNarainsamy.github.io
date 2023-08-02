@@ -1,55 +1,97 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>My Portfolio</title>
-<style>
-  /* Add all your CSS styles here */
-  .container {
-    max-width: 800px;
-    margin: 0 auto;
-  }
+# My Portfolio
 
-  .app {
-    display: flex;
-  }
+## Sidebar
 
-  .sidebar {
-    width: 250px;
-    background-color: #212529;
-    position: absolute;
-    top: 60px;
-    left: 0;
-    height: 150%;
-    color: #fff;
-    padding: 20px;
-  }
+Hi, I'm Mary, a developer. Welcome to my portfolio!
 
-  /* Rest of your CSS styles... */
-</style>
-</head>
-<body>
-<div class="container">
-  <div class="app">
-    <div class="sidebar">
-      <h1>My Portfolio</h1>
-      <p>Hi, My name is Mary and I am a developer :) Welcome to my portfolio!!!</p>
-      <img src="./Assets/profile_picture_adjusted.png" alt="Profile Picture">
-      <blockquote>
-        “My powers are ordinary. Only my application brings me success.” ~ Isaac Newton
-      </blockquote>
-      <a href="https://www.instagram.com/learnwlala/">
-        <img src="./Assets/instagram.png" alt="Instagram">
-      </a>
-      <a href="https://www.linkedin.com/in/mary-narainsamy-294bb0102/">
-        <img src="./Assets/linkedin.png" alt="LinkedIn">
-      </a>
-      <p>I am a passionate self-taught developer skilled in C#, JavaScript, Power Platform, Dynamics CRM, and React.js. Specializing in developing robust software solutions and creating efficient applications. I am committed to delivering high-quality code and ensuring client satisfaction. I am especially passionate about problem-solving and trying to find ways to solve different problems using code.</p>
-      <a href="https://raw.githubusercontent.com/MaryNarain/My_Portfolio/main/path/to/cv.pdf">GET MY CV</a>
-    </div>
-    <!-- Rest of your content... -->
-  </div>
-</div>
-</body>
-</html>
+![Profile Picture](./Assets/profile_picture_adjusted.png)
+
+> “My powers are ordinary. Only my application brings me success.” ~ Isaac Newton
+
+[![Instagram](./Assets/instagram.png)](https://www.instagram.com/learnwlala/)
+[![LinkedIn](./Assets/linkedin.png)](https://www.linkedin.com/in/mary-narainsamy-294bb0102/)
+
+I'm a passionate self-taught developer skilled in C#, JavaScript, Power Platform, Dynamics CRM, and React.js. I specialize in developing robust software solutions and creating efficient applications. I'm committed to delivering high-quality code and ensuring client satisfaction. Problem-solving using code is my forte.
+
+[Get my CV](https://raw.githubusercontent.com/MaryNarain/My_Portfolio/main/path/to/cv.pdf)
+
+---
+
+## Experience
+
+### Custom Development
+- Maintaining system code
+- Web development
+- Documentation
+- Building custom applications
+- Languages: React.js, JavaScript, C#
+
+### Power Platform Developer
+- Building Business Apps
+- Automating Processes with Power Automate
+- Integrating external systems with Adaptive Cards (Binder/AIDL)
+- Languages: Power FX, Javascript, C#
+
+### CRM Developer
+- Dynamics 365 Developer
+- Maintaining Dynamics CRM
+- Languages: JavaScript, C#
+
+### Tutorials & Development
+- YouTube Tutorials
+- Freelance App Dev
+
+---
+
+## Projects
+
+### PowerApps Project
+![Project 1](./src/Components/Assets/Project1Image.png)
+- Created apps like:
+  - Complete HR Solution
+  - Skills Development App
+  - Change Control App
+  - Sales and CRM using Power Apps as a foundation
+  - Credit Card Recon App
+
+### Power Automate Project
+![Project 2](./src/Components/Assets/Project2Image.png)
+- Built Helpdesk using Power Automate, Adaptive Cards, and Teams
+- Multiple workflows for automation
+
+### Custom Projects
+![Project 3](./src/Components/Assets/Project3Image.png)
+- Built a console App for daily user access checks, stored in blob storage for fire drills.
+- Interface in PowerApps, backend coded in C# as a console app.
+- Other projects include my portfolio developed using React.js.
+
+### Project 4
+![Project 4](./src/Components/Assets/Project4Image.png)
+- My YouTube channel Learn with Lala is just beginning its journey.
+- Providing tutorials on the Power Platform.
+- Tutorials on Adaptive cards and other uses.
+- Under construction, pending more video tutorials.
+
+---
+
+## Contact Me
+
+Feel free to get in touch for consultation or questions regarding PowerApps, Power Automate, Adaptive Cards, etc.
+
+**Name:** [Your Name]
+
+**Email:** [Your Email]
+
+**Message:** [Your Message]
+
+**Contact Number:** [Your Phone Number]
+
+**Company:** [Your Company Name]
+
+**Select Option you would like to partner with us for:**
+- PowerApps/Power Automate
+- Custom Development
+- Consultation
+- Other
+
+[Send](mailto:your@email.com)
