@@ -1,5 +1,5 @@
 # My Portfolio
-<div style="background-image: url('./background_image.jpg'); background-size: cover; padding: 29px 0; text-align: center; color: white;">
+<div style="background-image: url('./background_image.jpg'); background-size: cover; padding: 31px 0; text-align: center; color: white;">
   <h2>Hi, I'm Mary, a developer. Welcome to my portfolio!</h2>
   <img src="./profile_picture_adjusted.png" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%;">
   <blockquote>
