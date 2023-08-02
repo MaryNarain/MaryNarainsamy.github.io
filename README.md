@@ -61,8 +61,8 @@
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
   <div>
     <h3>Power Automate Project</h3>
-    <img src="./src/Components/Assets/Project2Image.png" alt="Project 2">
-    <p>Built Helpdesk using Power Automate, Adaptive Cards, and Teams</p>
+    <img src="./Assets/Project2Image.png" alt="Project 2">
+    <p></p>
     <ul>
       <li>Built Helpdesk using Power Automate, Adaptive Cards, and Teams</li>
       <li>Multiple workflows for automation</li>
