@@ -1,5 +1,5 @@
 # My Portfolio
-<div style="background-image: <img src=('./background_image.jpg') background-size: cover> padding: 31px 0; text-align: center; color: white;">
+<div style="background-image: <img src=('./background_image.jpg')> padding: 31px 0; text-align: center; color: white;">
   <h2>Hi, I'm Mary, a developer. Welcome to my portfolio!</h2>
   <img src="./profile_picture_adjusted.png" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%;">
   <blockquote>
@@ -69,7 +69,6 @@
     <ul>
       <li>Built a console App that runs on a daily basis and checks all user access, then stores the file in blob storage, to be used for fire drill when necessary.</li>
       <li>The app interface was created in PowerApps, backend was coded as a console app using C# and run daily.</li>
-      <li>Other projects include, my portfolio is developed using React.js.</li>
     </ul>
   </div>
   <div>
